@@ -1,2 +1,2 @@
-# Repository for learning Go with tests.
+# Repository for Learning Go with Tests.
 ## https://quii.gitbook.io/learn-go-with-tests/
