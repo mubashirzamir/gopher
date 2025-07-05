@@ -1,3 +1,11 @@
+# [1.1.0](https://github.com/mubashirzamir/gopher/compare/v1.0.0...v1.1.0) (2025-07-05)
+
+
+### Features
+
+* Integers + packaging. ([4791239](https://github.com/mubashirzamir/gopher/commit/47912393da1f622f77a39d7a8eebb261072bfc4e))
+* Strings. ([9db3e0f](https://github.com/mubashirzamir/gopher/commit/9db3e0f6c4b07cd1d3d56f4d30a28956e1184570))
+
 # 1.0.0 (2025-07-05)
 
 
