@@ -1,0 +1,10 @@
+# 1.0.0 (2025-07-05)
+
+
+### Features
+
+* Added multi-language support (French & Spanish). ([b993abb](https://github.com/mubashirzamir/gopher/commit/b993abb3e57f3c94d213b65fa91bb943301e3495))
+* Hello, name with tests. ([0eaaedc](https://github.com/mubashirzamir/gopher/commit/0eaaedc34295d1951f65131dbc70f153d6ff2fa5))
+* Semantic releases with GitHub Actions. ([2a952c3](https://github.com/mubashirzamir/gopher/commit/2a952c3c6f1bcca078a559b43c9378fda00681c4))
+* Semantic releases with GitHub Actions. ([0d83824](https://github.com/mubashirzamir/gopher/commit/0d83824ea83f17607f3be09d9fb5cbc1ae4e0628))
+* Semantic releases with GitHub Actions. ([7e1599d](https://github.com/mubashirzamir/gopher/commit/7e1599d7fa1cd8725758bc44722b1453a1542f18))
