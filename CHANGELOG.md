@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/mubashirzamir/gopher/compare/v1.1.0...v1.2.0) (2025-07-06)
+
+
+### Features
+
+* Arrays and slices. ([55eb299](https://github.com/mubashirzamir/gopher/commit/55eb29965a5ee2009c85f9b49dd612bde70918a3))
+
 # [1.1.0](https://github.com/mubashirzamir/gopher/compare/v1.0.0...v1.1.0) (2025-07-05)
 
 
