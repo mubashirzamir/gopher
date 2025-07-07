@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/mubashirzamir/gopher/compare/v1.3.0...v1.4.0) (2025-07-07)
+
+
+### Features
+
+* Pointers & errors. ([2d33b87](https://github.com/mubashirzamir/gopher/commit/2d33b870f1e9d71eff83ccfa3e86b47443a143cc))
+
 # [1.3.0](https://github.com/mubashirzamir/gopher/compare/v1.2.0...v1.3.0) (2025-07-07)
 
 
