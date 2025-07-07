@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/mubashirzamir/gopher/compare/v1.2.0...v1.3.0) (2025-07-07)
+
+
+### Features
+
+* Structs, methods & interfaces. ([5cfa2a6](https://github.com/mubashirzamir/gopher/commit/5cfa2a6139637210ccb508787ec67d688afb90e6))
+
 # [1.2.0](https://github.com/mubashirzamir/gopher/compare/v1.1.0...v1.2.0) (2025-07-06)
 
 
