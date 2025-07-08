@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/mubashirzamir/gopher/compare/v1.4.0...v1.5.0) (2025-07-08)
+
+
+### Features
+
+* Maps. ([18c6d9b](https://github.com/mubashirzamir/gopher/commit/18c6d9bb8703cb99127f8d47ab785515606a65ac))
+
 # [1.4.0](https://github.com/mubashirzamir/gopher/compare/v1.3.0...v1.4.0) (2025-07-07)
 
 
