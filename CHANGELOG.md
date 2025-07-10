@@ -1,3 +1,10 @@
+# [1.6.0](https://github.com/mubashirzamir/gopher/compare/v1.5.0...v1.6.0) (2025-07-10)
+
+
+### Features
+
+* Dependency Injection. ([13867b2](https://github.com/mubashirzamir/gopher/commit/13867b2b8db97139c6f7c0e2a0a0350a41d79b72))
+
 # [1.5.0](https://github.com/mubashirzamir/gopher/compare/v1.4.0...v1.5.0) (2025-07-08)
 
 
