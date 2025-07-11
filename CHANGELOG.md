@@ -1,3 +1,10 @@
+# [1.7.0](https://github.com/mubashirzamir/gopher/compare/v1.6.0...v1.7.0) (2025-07-11)
+
+
+### Features
+
+* Mocking. ([96fed9d](https://github.com/mubashirzamir/gopher/commit/96fed9d0f8bf491d1731c217091d9cf44faaf0e5))
+
 # [1.6.0](https://github.com/mubashirzamir/gopher/compare/v1.5.0...v1.6.0) (2025-07-10)
 
 
