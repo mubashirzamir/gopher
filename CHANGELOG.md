@@ -1,3 +1,10 @@
+# [1.8.0](https://github.com/mubashirzamir/gopher/compare/v1.7.0...v1.8.0) (2025-07-12)
+
+
+### Features
+
+* Concurrency. ([3b2c4d5](https://github.com/mubashirzamir/gopher/commit/3b2c4d55475a54211a2b8fcefa1c9b868710ef5a))
+
 # [1.7.0](https://github.com/mubashirzamir/gopher/compare/v1.6.0...v1.7.0) (2025-07-11)
 
 
