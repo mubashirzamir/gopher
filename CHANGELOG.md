@@ -1,3 +1,10 @@
+# [1.11.0](https://github.com/mubashirzamir/gopher/compare/v1.10.0...v1.11.0) (2025-07-17)
+
+
+### Features
+
+* Sync. ([30cdaa4](https://github.com/mubashirzamir/gopher/commit/30cdaa48c353c28b90888cdca37974b578c1a60f))
+
 # [1.10.0](https://github.com/mubashirzamir/gopher/compare/v1.9.0...v1.10.0) (2025-07-17)
 
 
