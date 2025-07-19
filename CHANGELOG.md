@@ -1,3 +1,10 @@
+# [1.12.0](https://github.com/mubashirzamir/gopher/compare/v1.11.0...v1.12.0) (2025-07-19)
+
+
+### Features
+
+* Context. ([54727cc](https://github.com/mubashirzamir/gopher/commit/54727cc7769b6529f1db10e50faf1d7012f242f2))
+
 # [1.11.0](https://github.com/mubashirzamir/gopher/compare/v1.10.0...v1.11.0) (2025-07-17)
 
 
