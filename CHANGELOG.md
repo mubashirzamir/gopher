@@ -1,3 +1,10 @@
+# [1.13.0](https://github.com/mubashirzamir/gopher/compare/v1.12.0...v1.13.0) (2025-07-23)
+
+
+### Features
+
+* Intro to property based tests. ([b7c7044](https://github.com/mubashirzamir/gopher/commit/b7c70441349453c5146dd217f84681623ee4c448))
+
 # [1.12.0](https://github.com/mubashirzamir/gopher/compare/v1.11.0...v1.12.0) (2025-07-19)
 
 
