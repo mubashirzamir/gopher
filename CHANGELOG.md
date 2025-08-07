@@ -1,3 +1,10 @@
+# [1.14.0](https://github.com/mubashirzamir/gopher/compare/v1.13.0...v1.14.0) (2025-08-07)
+
+
+### Features
+
+* Maths. ([4df9464](https://github.com/mubashirzamir/gopher/commit/4df94645ba9bf16233518989990d20869438e572))
+
 # [1.13.0](https://github.com/mubashirzamir/gopher/compare/v1.12.0...v1.13.0) (2025-07-23)
 
 
